@@ -4,6 +4,6 @@ description: Aspiring Software Engineer | Data Enthusiast
 theme: jekyll-theme-minimal
 url: "https://tejotago.github.io"
 social_links:
-  [linkedin](https://linkedin.com/in/t14gom3s)
-  [kaggle] (https://www.kaggle.com/tejota)
-  [tableau] (https://public.tableau.com/app/profile/t.jota/vizzes)
+  linkedin: "https://linkedin.com/in/t14gom3s"
+  kaggle: "https://www.kaggle.com/tejota"
+  tableau: "https://public.tableau.com/app/profile/t.jota/vizzes"
