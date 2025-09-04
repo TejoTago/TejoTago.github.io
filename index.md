@@ -1,10 +1,10 @@
-# 👋 Welcome to My Portfolio
+# Welcome
 
-Hi, I'm **TJ** — an aspiring software engineer with a background in economics and business management. After transitioning into tech, I’ve focused on embedded systems and data-driven projects.
+Hi, I'm **Tiago** — an aspiring software engineer with a background in economics and business management. After transitioning into tech, I’ve focused on embedded systems and data-driven projects.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a motivated career-changer with a background in economics and business management, now focused on embedded systems development using C/C++. Over the past year, I completed a specialized training program and gained hands-on experience through an internship at Critical Software, working with STM32 microcontrollers and TouchGFX.
 
@@ -12,7 +12,7 @@ I'm passionate about building practical solutions and continuously expanding my 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming & Embedded Systems**  
 C · C++ · STM32 · TouchGFX · Git · Linux
@@ -28,7 +28,7 @@ English · Spanish · Learning German
 
 ---
 
-## 🎓 Education
+## Education
 
 **C/C++ Programming for Embedded Systems**  
 *Polytechnic University of Coimbra*  
@@ -44,7 +44,7 @@ English · Spanish · Learning German
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Internship at Critical Software**  
 - Embedded UI development  
@@ -76,14 +76,4 @@ My professional journey took me across Portugal and Angola, working in multicult
 - [Kaggle](https://www.kaggle.com/tejota)  
 - [Tableau](https://public.tableau.com/app/profile/t.jota/vizzes)
 
----
 
-## 📄 Download My CV
-
-[Click here to download my resume](docs/assets/TJota_CV.pdf)
-
----
-
-## 📬 Contact
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/t14gom3s) or email me at `your.email@example.com`.
