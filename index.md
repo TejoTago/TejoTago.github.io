@@ -53,7 +53,7 @@ English · Spanish · Learning German
 
 ---
 
-## 💼 Previous Experience
+**Experience (Outside Tech)**  
 
 My career spanned roles in public finance, corporate management, and advisory services, where I consistently delivered analytical insights and process improvements.
 
