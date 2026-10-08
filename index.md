@@ -72,7 +72,7 @@ My professional journey took me across Portugal and Angola, working in multicult
 
 - [LinkedIn](https://linkedin.com/in/t14gom3s)  
 - [GitHub](https://github.com/tejotago)  
-- [YouTube](https://www.youtube.com/@TouchGFX-Lab))  
+- [YouTube](https://www.youtube.com/@TouchGFX-Lab
 - [Kaggle](https://www.kaggle.com/tejota)  
 - [Tableau](https://public.tableau.com/app/profile/t.jota/vizzes)
 
